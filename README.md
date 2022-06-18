@@ -11,7 +11,7 @@ Simple tic-tac-toe application. You can play with a friend or a bot.
 
 
 
-* [React Native]([https://reactnative.dev/])
+* [React Native](https://reactnative.dev/)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
