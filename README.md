@@ -67,6 +67,6 @@ Distributed under the MIT License. See [LICENSE](https://choosealicense.com/lice
 
 Marcin - marcinedel@gmail.com
 
-Project Link: [https://github.com/marcinedel/1/](https://github.com/marcinedel/Aplikacja1/)
+Project Link: [https://github.com/marcinedel/OiX/](https://github.com/marcinedel/OiX/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
